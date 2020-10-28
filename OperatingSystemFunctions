@@ -1,2 +1,3 @@
 # Operating-Systems
-Operating system function: security- uses password protection to protect user data and similae techniques. 
+Operating system function: security- uses password protection to protect user data and similar techniques. 
+Has control over system performance. It records the response time between service requests. This helps improve performance by providing important information needed to troubleshoot problems.
